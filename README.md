@@ -1,0 +1,1 @@
+# using-interface-in-method-parameter
